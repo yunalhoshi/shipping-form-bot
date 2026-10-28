@@ -1,0 +1,7 @@
+node_modules/
+results.json
+error-row-*.png
+*.csv
+!examples/*.csv
+.env
+.DS_Store

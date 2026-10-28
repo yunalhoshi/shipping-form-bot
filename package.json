@@ -1,0 +1,3 @@
+{ "name": "shipping-form-bot", "private": true, "type": "module",
+  "scripts": { "demo": "node bot.mjs --submit", "dry": "node bot.mjs" },
+  "dependencies": { "playwright": "^1.48.0" } }
